@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ugo+x current directory
+chmod ugo+x *
